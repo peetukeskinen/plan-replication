@@ -1,4 +1,4 @@
-# Replication files for the calculation of Finland's net expenditure path under new fiscal rules
+# Replication files Finland's net expenditure paths
 
 ## Replication of Results
 
