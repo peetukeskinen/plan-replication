@@ -1,4 +1,4 @@
-# Replication files Finland's net expenditure paths
+# Replication Files Finland's Net Expenditure Paths
 
 ## Overview of the European Commission DSA tool
 The Debt Sustainability Analysis (DSA) tool is used for debt ratio projections. This version incorporates all criteria from the reformed EU Fiscal Rules. It improves the analysis of debt sustainability, including new fiscal safeguards, as outlined by the European Commission. For context on the importance of these debt rules for Finland, see this [report, ch. 3]([https://www.vtv.fi/en/blog/the-length-of-the-adjustment-plan-in-the-reformed-eu-debt-rules-is-of-great-importance-to-finland/](https://www.vtv.fi/en/publications/fiscal-policy-monitoring-report-2024/)). Current version also incorporates the calculation of net expenditure path.
@@ -23,7 +23,7 @@ Commission results using spring 2024 data for DSA can be seen from this [Excel f
 
 3. **Finland’s Net Expenditure Path with National Escape Clause (Safeguards not binding)**  
    - **Settings file:** `NoSafeguardsSettings.m`  
-   - **Expected output:** Net expenditure path using Finland's medium term plan data (autumn 2024) and linear adjustment matching exactly those in Table 2b (1st row) of the Commission’s “Non-Compliance” documentation for Finland.  
+   - **Expected output:** Net expenditure path using Finland's medium term plan data (autumn 2024) and linear adjustment matching exactly those in Table 2b (1st row) of the Commission’s “Non-Compliance” documentation for Finland. In this replication, we assume that Commission uses linear adjustment. Commission has not reported the methodology used in their calculations in this scenario.
    - **Commission source:**  
      [Table 2: Maximum net expenditure growth, Net of the impact of the debt sustainability safeguard and the deficit resilience safeguard (b)](https://economy-finance.ec.europa.eu/document/download/a15e0f75-3100-42c5-bb7e-f0ea5819ffa6_en?filename=FI_NEC_COM_2025_606_1_EN_ACT_part1_v3.pdf)
 
