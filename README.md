@@ -1,9 +1,11 @@
-# Replication Files Finland's Net Expenditure Paths
+# Replication Files for Finland's Net Expenditure Paths
 
 ## Overview of the European Commission DSA tool
 The Debt Sustainability Analysis (DSA) tool is used for debt ratio projections. This version incorporates all criteria from the reformed EU Fiscal Rules. It improves the analysis of debt sustainability, including new fiscal safeguards, as outlined by the European Commission. For context on the importance of these debt rules for Finland, see this [report, ch. 3](https://www.vtv.fi/en/publications/fiscal-policy-monitoring-report-2024/). Current version also incorporates the calculation of net expenditure path.
 
-The code has benefitted greatly from the analysis and Python code by Darvas et al. (2023), as seen [here](https://www.bruegel.org/working-paper/quantitative-evaluation-european-commissions-fiscal-governance-proposal) and [here](https://github.com/lennardwelslau/eu-debt-sustainability-analysis).
+The tool facilitates debt projections following the guidelines of the European Commission's [Debt Sustainability Monitor 2023](https://economy-finance.ec.europa.eu/publications/debt-sustainability-monitor-2023_en). Users can run simulations under different assumptions and fiscal conditions, with flexibility in selecting methods and parameters for more customized results.
+
+The code has benefitted greatly from the analysis and Python code by Darvas et al. (2023), as seen [here](https://www.bruegel.org/working-paper/quantitative-evaluation-european-commissions-fiscal-governance-proposal) and [here](https://github.com/lennardwelslau/eu-debt-sustainability-analysis). 
 
 ## Replication of Results
 Below are instructions on which MATLAB “settings” files to **run** in order to reproduce the net expenditure paths as reported by the European Commission.
