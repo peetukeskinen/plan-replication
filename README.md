@@ -11,7 +11,7 @@ The code has benefitted greatly from the analysis and Python code by Darvas et a
 Below are instructions on which MATLAB “settings” files to **run** in order to reproduce the net expenditure paths for Finland using the MATLAB replication code in this repository. 
 Commission results using spring 2024 data for DSA can be seen from this [Excel file](https://economy-finance.ec.europa.eu/document/download/d3b7feec-2544-40d2-8b94-198479c66755_en?filename=Commission_prior_guidance_calculation_sheet_finland.xlsx).
 
-1. **Commission Reference Trajectory**  
+1. **Commission Reference Trajectory (Safeguards binding)**  
    - **Settings file:**  `ReferenceTrajectorySettings.m`  
    - **Expected output:** Net expenditure path using spring 2024 data and linear adjustment identical to the Commission’s “reference trajectory” results, as reported in Table 1 of the following file.
    - **Commission source:**  
