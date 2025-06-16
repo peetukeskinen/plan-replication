@@ -18,7 +18,7 @@ Commission results using spring 2024 data for DSA can be seen from this [Excel f
      [Table 1: Reference trajectory provided by the Commission to Finland on 21 June 2024](https://economy-finance.ec.europa.eu/document/download/2685c07d-ce5e-41aa-abb8-6ef14d0e72d9_en?filename=MTFSP_2025_FI.pdf)
 
 2. **Finland’s Net Expenditure Path in its Medium-Term Plan (Safeguards binding)**  
-   - **Settings file:**  `FinlandPlansettings.m`  
+   - **Settings file:**  `FinlandPlanSettings.m`  
    - **Expected output:** Net expenditure path using Finland's medium term plan data (autumn 2024) and frontloaded adjustment matching exactly those in Table 2a (1st row) of the following file.
    - **Commission source:**  
      [Table 2: Maximum net expenditure growth of Finland (a)](https://economy-finance.ec.europa.eu/document/download/2685c07d-ce5e-41aa-abb8-6ef14d0e72d9_en?filename=MTFSP_2025_FI.pdf)
