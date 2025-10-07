@@ -21,7 +21,7 @@ Commission results using spring 2024 data for DSA can be seen from this [Excel f
    - **Settings file:**  `FinlandPlanSettings.m`  
    - **Expected output:** Net expenditure path using Finland's medium term plan data (autumn 2024) and frontloaded adjustment matching exactly those in Table 2a (1st row) of the following file.
    - **Commission source:**  
-     [Table 2: Maximum net expenditure growth of Finland (a)]([https://economy-finance.ec.europa.eu/document/download/2685c07d-ce5e-41aa-abb8-6ef14d0e72d9_en?filename=MTFSP_2025_FI.pdf](https://economy-finance.ec.europa.eu/document/download/a15e0f75-3100-42c5-bb7e-f0ea5819ffa6_en?filename=FI_NEC_COM_2025_606_1_EN_ACT_part1_v3.pdf)
+     [Table 2: Maximum net expenditure growth, Net of the impact of the debt sustainability safeguard and the deficit resilience safeguard (b)](https://economy-finance.ec.europa.eu/document/download/a15e0f75-3100-42c5-bb7e-f0ea5819ffa6_en?filename=FI_NEC_COM_2025_606_1_EN_ACT_part1_v3.pdf)
      
 
 3. **Finland’s Net Expenditure Path with National Escape Clause (Safeguards not binding)**  
